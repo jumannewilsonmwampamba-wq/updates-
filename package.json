@@ -1,0 +1,14 @@
+{
+  "name": "profiledb-identity-kernel",
+  "version": "1.0.0",
+  "description": "Injini ya Nne ya Memory ya ProfileDB yenye Msururu wa Video na Multi-Platform Links",
+  "main": "profiledb.js",
+  "scripts": {
+    "start": "node profiledb.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "private": true
+}
