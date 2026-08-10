@@ -1,10 +1,11 @@
 {
-  "name": "profiledb-identity-kernel",
+  "name": "jumannedb-anti-sleep-guardian",
   "version": "1.0.0",
-  "description": "Injini ya Nne ya Memory ya ProfileDB yenye Msururu wa Video na Multi-Platform Links",
-  "main": "profiledb.js",
+  "description": "Mlinzi Maalum wa Ki-hardware wa Kuzuia Seva Tano za Render Zisizime Maisha Yote",
+  "main": "mlinzi.js",
+  "type": "commonjs",
   "scripts": {
-    "start": "node profiledb.js"
+    "start": "node mlinzi.js"
   },
   "engines": {
     "node": ">=18.0.0"
